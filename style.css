@@ -1,0 +1,43 @@
+*
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1
+{
+    font-size: 20px;
+}
+
+body
+{
+    background-color: coral;
+}
+
+.head{
+    font-size: 50PX;
+    color: aliceblue;
+    text-align: center;
+}
+
+.row_1
+{
+    display: flex;
+}
+.row_2
+{
+    display: flex;
+}
+
+.p1,.p2,.P3,.P4
+{
+    border: 10PX solid black;
+    background-color: aliceblue;
+}
+
+.table
+{
+    padding: 50px;
+}
+p
+{
+    padding: 10px;
+}
